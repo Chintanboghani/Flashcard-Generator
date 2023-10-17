@@ -60,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Chintanboghani/Flashcard-Generator
+$ git clone https://github.com/Chintanboghani/Flashcard-Generator.git
 
 # Go into the repository
 $ cd Flashcard-Generator
